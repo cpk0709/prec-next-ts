@@ -21,6 +21,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "6.15.8",
+    "react-lazy-load-image-component": "1.5.4",
     "typescript": "5.0.2"
   }
 }
